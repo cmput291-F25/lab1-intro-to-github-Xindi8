@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name: xindi li
+CCID: xindi8
+Lecture: LEC A2
+Lab: Lab d07(51638)
